@@ -59,7 +59,7 @@ AI-powered social media management platform with account analytics, post schedul
 
 **Tech:** Next.js, PostgreSQL, Prisma, Redis, Supabase, Gemini API, Twitter API, Instagram API  
 
-[💻 Repository](YOUR_LINK) | [🌐 Live Demo](YOUR_LINK)
+[💻 Repository](https://github.com/AjiNotoKusumo/Firework-Studio) | [🌐 Live Demo](YOUR_LINK)
 
 
 ### 🎮 Level Up
@@ -67,7 +67,7 @@ Web-based e-commerce platform for discovering trending games with wishlist, adva
 
 **Tech:** Next.js, MongoDB, REST API, Vercel  
 
-[💻 Repository](YOUR_LINK) | [🌐 Live Demo](YOUR_LINK)
+[💻 Repository](https://github.com/AjiNotoKusumo/LevelUp) | [🌐 Live Demo](https://level-up-public.vercel.app)
 
 
 ### 📱 HackTube
@@ -75,7 +75,7 @@ Mobile social media platform featuring post creation, likes, comments, follow sy
 
 **Tech:** React Native, Expo, MongoDB, GraphQL, Apollo Server, Redis  
 
-[💻 Repository](YOUR_LINK)
+[💻 Repository](https://github.com/AjiNotoKusumo/Hack-Tube)
 
 
 ### 🧠 Quizzy
@@ -83,7 +83,7 @@ AI-powered quiz platform with real-time multiplayer rooms, live chat, speed-base
 
 **Tech:** React.js, Redux, Socket.io, PostgreSQL, Sequelize, AWS, Firebase, Gemini API  
 
-[💻 Repository](YOUR_LINK) | [🌐 Live Demo](YOUR_LINK)
+[💻 Repository](https://github.com/AjiNotoKusumo/Group-Project-Quiz-Phase2) | [🌐 Live Demo](https://quizzy-989d4.web.app)
 
 
 ### 📋 Task Master
@@ -91,7 +91,7 @@ AI-powered project management platform with task tracking, milestone organizatio
 
 **Tech:** React.js, Redux, Express.js, PostgreSQL, Sequelize, AWS, Vercel, Gemini API, Cloudinary  
 
-[💻 Repository](YOUR_LINK) | [🌐 Live Demo](YOUR_LINK)
+[💻 Repository](https://github.com/AjiNotoKusumo/Task-Master) | [🌐 Live Demo](https://task-master-public.vercel.app)
 
 ---
 
