@@ -23,7 +23,7 @@ Junior Full-Stack Developer with a background in Industrial Engineering and a st
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css)
-![Apollo Client](https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-311C87?style=for-the-badge&logo=tailwindcss)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -60,7 +60,7 @@ AI-powered social media management platform with account analytics, post schedul
 
 **Tech:** Next.js, PostgreSQL, Prisma, Redis, Supabase, Gemini API, Twitter API, Instagram API  
 
-[💻 Repository](https://github.com/AjiNotoKusumo/Firework-Studio) | [🌐 Live Demo](YOUR_LINK)
+[💻 Repository](https://github.com/AjiNotoKusumo/Firework-Studio) | [🌐 Live Demo](https://firework-studio.rookiedev.online/)
 
 
 ### 🎮 Level Up
